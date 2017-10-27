@@ -1,0 +1,24 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "nodejs",
+    "mocha",
+    "javascript",
+    "software"
+  ],
+  "author": "nicosp",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "moment": "^2.19.1"
+  },
+  "devDependencies": {
+    "sinon": "^4.0.1"
+  }
+}
